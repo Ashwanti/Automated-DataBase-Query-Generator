@@ -1,0 +1,3 @@
+create a text file named run.txt 
+write "my name is shravan" to run.txt
+move run.txt to parent dir delete if run.txt exists
